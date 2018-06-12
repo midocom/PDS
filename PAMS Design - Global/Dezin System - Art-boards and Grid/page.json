@@ -1,0 +1,83 @@
+{
+  "_class": "page",
+  "do_objectID": "5b3c40b0-6e29-11e8-b881-c55c2852d729",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 8,
+    "isEnabled": true,
+    "thickGridTimes": 8
+  },
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -333,
+    "guides": [
+      256,
+      960,
+      944,
+      976,
+      1664,
+      1544,
+      376
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "081192A4-0B53-4E4B-B705-F472F10B3172"
+    },
+    {
+      "class": "artboard",
+      "id": "9A308094-14A0-4DE5-806C-6FF8409DE3DE"
+    },
+    {
+      "class": "artboard",
+      "id": "921CF940-335F-4C33-BC2F-6039159D0FD2"
+    },
+    {
+      "class": "artboard",
+      "id": "689249E9-5289-49C7-AAA4-13889F8DE2C7"
+    }
+  ],
+  "name": "Dezin System - Art-boards and Grid",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -265,
+    "guides": [
+    ]
+  }
+}
