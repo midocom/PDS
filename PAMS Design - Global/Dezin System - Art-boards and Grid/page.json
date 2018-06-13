@@ -62,6 +62,21 @@
       "id": "689249E9-5289-49C7-AAA4-13889F8DE2C7"
     }
   ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 88,
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 8,
+    "gutterWidth": 32,
+    "guttersOutside": true,
+    "horizontalOffset": 240,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 1440
+  },
   "name": "Dezin System - Art-boards and Grid",
   "nameIsFixed": true,
   "resizingConstraint": 63,

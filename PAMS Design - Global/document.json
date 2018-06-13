@@ -14,7 +14,7 @@
     "images": [
     ]
   },
-  "colorSpace": 0,
+  "colorSpace": 1,
   "do_objectID": "5b3c67c0-6e29-11e8-b881-c55c2852d729",
   "foreignLayerStyles": [
   ],
@@ -33,7 +33,8 @@
     "version": 103
   },
   "pages": [
-    "Dezin System - Art-boards and Grid"
+    "Dezin System - Art-boards and Grid",
+    "Symbols"
   ],
   "userInfo": {
     "com.invisionlabs.sync": {

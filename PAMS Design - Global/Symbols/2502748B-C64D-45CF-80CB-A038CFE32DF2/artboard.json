@@ -1,0 +1,133 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.2902374565601349,
+    "green": 0.2901752889156342,
+    "red": 0.290221631526947
+  },
+  "do_objectID": "2502748B-C64D-45CF-80CB-A038CFE32DF2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E7BDD747-3F44-44A2-A2E8-8F62E2F35319",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3C63E266-C43E-492F-81B7-8512C46F4461",
+    "height": 1800,
+    "width": 1920,
+    "x": -349,
+    "y": -337
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "966D4717-D9EF-4819-94BA-43D23A3CE27A",
+    "gridSize": 8,
+    "isEnabled": false,
+    "thickGridTimes": 8
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "73F8A731-D388-4D87-BA56-5D13D28A8ECB",
+    "guides": [
+      256,
+      376,
+      960,
+      976,
+      944,
+      1544,
+      1664
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D7EFA773-27CC-4788-9435-E5A79653E219"
+    },
+    {
+      "class": "group",
+      "id": "6E6A909D-2A55-41AC-9862-C80542A67870"
+    },
+    {
+      "class": "group",
+      "id": "8A278BF2-4F28-4F80-988A-DD2A07DDE8C2"
+    },
+    {
+      "class": "group",
+      "id": "45097767-6B5C-4BC6-AACC-8EE8467735BA"
+    },
+    {
+      "class": "group",
+      "id": "DAD4C101-FA17-413C-804D-448F7670B07D"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 88,
+    "do_objectID": "F78135EE-CE39-4849-A0DE-555FB04D168B",
+    "drawHorizontal": true,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 8,
+    "gutterWidth": 32,
+    "guttersOutside": true,
+    "horizontalOffset": 240,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 1,
+    "totalWidth": 1440
+  },
+  "name": "Dezin System -  Brand, colours and shared styles",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BA522A13-CD73-45D1-BC5D-ED23A6A60508",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "733C3FDD-A0AD-418C-9B52-A96FCE164D94",
+    "guides": [
+    ]
+  }
+}

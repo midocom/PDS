@@ -1,0 +1,67 @@
+{
+  "_class": "group",
+  "do_objectID": "DAD4C101-FA17-413C-804D-448F7670B07D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 120,
+    "width": 1168,
+    "x": 256,
+    "y": 1370
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "5E70E056-7678-4ADA-B632-636752237F6E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E9C47AD8-CD30-414B-AAB4-7E3F28740C20"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1D0CF3F5-B76D-4179-A00A-822791A0AF0C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "2EC229AF-9720-4735-BA43-0C65C8A735E9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5FA7CFBE-F9B1-4070-A69D-80C48EC265C0"
+    }
+  ],
+  "name": "Surfeces",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

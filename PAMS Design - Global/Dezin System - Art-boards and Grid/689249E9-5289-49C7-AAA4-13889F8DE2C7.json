@@ -28,7 +28,7 @@
   "grid": {
     "_class": "simpleGrid",
     "gridSize": 8,
-    "isEnabled": true,
+    "isEnabled": false,
     "thickGridTimes": 8
   },
   "hasBackgroundColor": false,
@@ -68,7 +68,7 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 344
   },
-  "name": "Dezin System—Artboard —  Mobile Portrait 375px",
+  "name": "Dezin System - Artboard - Mobile Portrait 375px",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 1,
