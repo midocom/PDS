@@ -22,7 +22,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "3C63E266-C43E-492F-81B7-8512C46F4461",
-    "height": 1800,
+    "height": 1500,
     "width": 1920,
     "x": -349,
     "y": -337
@@ -35,7 +35,7 @@
     "thickGridTimes": 8
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -96,7 +96,7 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 1440
   },
-  "name": "Dezin System -  Brand, colours and shared styles",
+  "name": "Design System -  Brand, colours and shared styles",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,

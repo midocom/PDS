@@ -71,7 +71,7 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 960
   },
-  "name": "Dezin System - Artboard - Tablet Landscape 1024px",
+  "name": "Design System - Artboard - Tablet Landscape 1024px",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
@@ -90,6 +90,12 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",

@@ -34,7 +34,7 @@
         "location": 0
       }
     ],
-    "string": "Styles"
+    "string": "Shapes"
   },
   "automaticallyDrawOnUnderlyingPath": false,
   "do_objectID": "1D705844-0337-4409-85D1-D1FC661FFA2E",
@@ -52,18 +52,18 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 48,
-    "width": 1408,
+    "width": 688,
     "x": 0,
     "y": 848
   },
-  "glyphBounds": "{{0, 11}, {100, 31}}",
+  "glyphBounds": "{{0, 11}, {121, 31}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
   "lineSpacingBehaviour": 2,
-  "name": "Styles",
+  "name": "Shapes",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,

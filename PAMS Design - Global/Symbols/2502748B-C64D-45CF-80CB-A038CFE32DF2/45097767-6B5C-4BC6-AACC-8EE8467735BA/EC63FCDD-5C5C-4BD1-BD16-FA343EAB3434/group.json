@@ -15,15 +15,15 @@
     "constrainProportions": false,
     "height": 50,
     "width": 88,
-    "x": 840,
-    "y": 0
+    "x": 240,
+    "y": 88
   },
   "hasClickThrough": true,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 1,
+  "layerListExpandedType": 0,
   "layers": [
     {
       "class": "shapeGroup",

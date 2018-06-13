@@ -71,7 +71,7 @@
     "rowHeightMultiplication": 1,
     "totalWidth": 1440
   },
-  "name": "Dezin System - Artboard - Desktop 1920px",
+  "name": "Design System - Artboard - Desktop 1920px",
   "nameIsFixed": true,
   "presetDictionary": {
     "allowResizedMatching": 0,
@@ -90,6 +90,12 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
   },
   "verticalRulerData": {
     "_class": "rulerData",
